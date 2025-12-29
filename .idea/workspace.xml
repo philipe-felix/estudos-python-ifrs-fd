@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45402843-6bd8-438b-852f-77b9c9510192" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/estudos-python-ifrs-fd.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_fundamentos/exerc_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_fundamentos/exerc_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_fundamentos/operadoresAri.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_fundamentos/primeiroprograma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md.py" afterDir="false" />
+    <list default="true" id="45402843-6bd8-438b-852f-77b9c9510192" name="Changes" comment="Adicionando exemplos de variáveis, entrada de dados e conversão de tipos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "philipe-felix"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/philipe-felix/estudos-python-ifrs-fd",
+    "accountId": "c008c001-d1ee-4f3e-8fd5-f88df1793cee"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -73,6 +74,19 @@
       <option name="presentableId" value="Default" />
       <updated>1766974049635</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adicionando exemplos de variáveis, entrada de dados e conversão de tipos">
+      <option name="closed" value="true" />
+      <created>1767035758476</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767035758476</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adicionando exemplos de variáveis, entrada de dados e conversão de tipos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando exemplos de variáveis, entrada de dados e conversão de tipos" />
   </component>
 </project>
