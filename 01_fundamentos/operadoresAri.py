@@ -1,4 +1,4 @@
-# Operadores aritméticos com duas variáveis
+# Operadores aritméticos com duas variáveis #
 pri_var = 5
 seg_var = 3
 resultado_soma = pri_var + seg_var
