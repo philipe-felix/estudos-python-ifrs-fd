@@ -1,4 +1,4 @@
-" Jornada de Aprendizado em Python - IFRS
+ Jornada de Aprendizado em Python - IFRS
 Este repositório contém a minha evolução e exercícios práticos realizados durante o curso de Python do IFRS.
 
 🚀 Tecnologias e Conceitos
