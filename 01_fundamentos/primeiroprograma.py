@@ -1,5 +1,5 @@
-# Exemplo com Atribuição e Saída de Dados
-
+# Exemplo com Atribuição e Saída de Dados #
+#
 idade = 26
 altura = 1.91
 bairro = "Centro Histórico"
