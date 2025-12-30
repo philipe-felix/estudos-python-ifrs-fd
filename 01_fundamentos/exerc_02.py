@@ -1,4 +1,4 @@
-# Reajuste de salário
+# Reajuste de salário #
 salario = float(input("Informe o seu salário atual: "))
 percentual = float(input("Digite o percentual de aumento: "))
 
