@@ -9,6 +9,7 @@ Este repositório contém a minha evolução e exercícios práticos realizados 
 • Foco: Lógica de programação
 
 📂 Estrutura do Repositório
+
 • `/01-fundamentos`: Variáveis, tipos de dados e operadores.
 
 • `/02-estruturas-condicionais`: If, else e elif.
