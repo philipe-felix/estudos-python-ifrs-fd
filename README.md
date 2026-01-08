@@ -1,17 +1,35 @@
- Jornada de Aprendizado em Python - IFRS
-Este repositório contém a minha evolução e exercícios práticos realizados durante o curso de Python do IFRS.
+# 🐍 Residência em Desenvolvimento de Software (Back-end)
 
-🚀 Tecnologias e Conceitos
-• Linguagem: Python
+![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Focus](https://img.shields.io/badge/Foco-Back--End-green)
 
-• Bancos de Dados: SQL e NoSQL
+Este repositório documenta minha evolução técnica e os projetos práticos desenvolvidos durante a **Residência Tecnológica** promovida pelo **IFRS (Instituto Federal do Rio Grande do Sul)** em parceria com o **HBR**.
 
-• Foco: Lógica de programação
+Aqui concentro exercícios de lógica, algoritmos e boas práticas de programação focadas no ecossistema Python.
 
-📂 Estrutura do Repositório
+## 🚀 Tecnologias e Ferramentas
 
-• `/01-fundamentos`: Variáveis, tipos de dados e operadores.
+* **Linguagem:** Python
+* **Banco de Dados:** SQL e NoSQL (Conceitos e Prática)
+* **Versionamento:** Git & GitHub
+* **Conceitos:** Lógica de Programação, Estruturas de Dados, Clean Code.
 
-• `/02-estruturas-condicionais`: If, else e elif.
+## 📂 Estrutura do Repositório
 
-• `/03-listas-e-loops`: Manipulação de listas e estruturas de repetição."
+O conteúdo está organizado por módulos de aprendizado para facilitar a consulta:
+
+| Diretório | Conteúdo |
+| :--- | :--- |
+| `📂 /01-fundamentos` | Variáveis, tipos de dados primitivos, operadores e I/O. |
+| `📂 /02-controle-fluxo` | Estruturas condicionais (`if`, `elif`, `else`) e tomada de decisão. |
+| `📂 /03-estruturas-dados` | Manipulação de Listas, Tuplas, Dicionários e Laços (`for`, `while`). |
+| `📂 /04-funcoes` *(Sugestão)* | Modularização de código e escopo de variáveis. |
+
+## 🛠️ Como executar os projetos
+
+Para rodar os scripts deste repositório localmente:
+
+1. Clone o repositório:
+   ```bash
+   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPO.git](https://github.com/SEU-USUARIO/NOME-DO-REPO.gi
