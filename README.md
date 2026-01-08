@@ -19,12 +19,12 @@ Aqui concentro exercícios de lógica, algoritmos e boas práticas de programaç
 
 O conteúdo está organizado por módulos de aprendizado para facilitar a consulta:
 
-| Diretório | Conteúdo |
-| :--- | :--- |
-| `📂 /01-fundamentos` | Variáveis, tipos de dados primitivos, operadores e I/O. |
-| `📂 /02-controle-fluxo` | Estruturas condicionais (`if`, `elif`, `else`) e tomada de decisão. |
+| Diretório                 | Conteúdo |
+|:--------------------------| :--- |
+| `📂 /01-fundamentos`      | Variáveis, tipos de dados primitivos, operadores e I/O. |
+| `📂 /02-controle-fluxo`   | Estruturas condicionais (`if`, `elif`, `else`) e tomada de decisão. |
 | `📂 /03-estruturas-dados` | Manipulação de Listas, Tuplas, Dicionários e Laços (`for`, `while`). |
-| `📂 /04-funcoes` *(Sugestão)* | Modularização de código e escopo de variáveis. |
+| `📂 /04-funcoes`          | Modularização de código e escopo de variáveis. |
 
 ## 🛠️ Como executar os projetos
 
